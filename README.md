@@ -45,3 +45,4 @@ In order to start entire infrastructure using Docker, you have to build images b
 * Fadeeva Ekaterina
 * Latypova Dina
 * Mavrina Regina
+:)
